@@ -1,7 +1,7 @@
 # Google HashCode 2020
 ## Group Orchidea 
 ### members:
-- [Evelyn Callegari](https://github.com/EvelynTurri)
+- [Evelyn Turri](https://github.com/EvelynTurri)
 - [Mauritz Cartier van Dissel](https://github.com/MauritzNiklas)
 - [Matteo Bonora](https://github.com/Bonnee)
 - [Simone Ruffini](https://github.com/simoneruffini)
